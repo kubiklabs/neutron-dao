@@ -1,0 +1,9 @@
+testnet:
+  deployInfo:
+    codeId: 821
+    contractCodeHash: not_required
+    deployTimestamp: Thu Dec 21 2023 22:06:11 GMT+0530 (India Standard Time)
+  instantiateInfo:
+    - instantiateTag: Security subDAO CW4 Group
+      contractAddress: neutron1lcepwp9hc95v8yq4tetrc989sp2rshaejmqa487jjyq8zmg0luuqg4ke0f
+      instantiateTimestamp: Thu Dec 21 2023 22:06:12 GMT+0530 (India Standard Time)

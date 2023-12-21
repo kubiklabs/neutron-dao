@@ -1,0 +1,9 @@
+testnet:
+  deployInfo:
+    codeId: 1486
+    contractCodeHash: not_required
+    deployTimestamp: Thu Dec 21 2023 22:06:11 GMT+0530 (India Standard Time)
+  instantiateInfo:
+    - instantiateTag: Lido Satellite
+      contractAddress: neutron1xdtwh5jr4zjx8g3zh29jud75c666wua7tsmum3ajm6ylf782etfs60dj2h
+      instantiateTimestamp: Thu Dec 21 2023 22:06:12 GMT+0530 (India Standard Time)

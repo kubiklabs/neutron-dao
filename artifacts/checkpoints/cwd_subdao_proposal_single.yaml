@@ -1,0 +1,9 @@
+testnet:
+  deployInfo:
+    codeId: 2157
+    contractCodeHash: not_required
+    deployTimestamp: Thu Dec 21 2023 22:06:11 GMT+0530 (India Standard Time)
+  instantiateInfo:
+    - instantiateTag: Security subDAO Single Proposal Module
+      contractAddress: neutron1wyvwhmnvc43reeptqllqmu3a55cz5lj4remvv7gwwt79kdxvchws7npv9u
+      instantiateTimestamp: Thu Dec 21 2023 22:06:12 GMT+0530 (India Standard Time)

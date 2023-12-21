@@ -1,0 +1,9 @@
+testnet:
+  deployInfo:
+    codeId: 2150
+    contractCodeHash: not_required
+    deployTimestamp: Thu Dec 21 2023 22:06:11 GMT+0530 (India Standard Time)
+  instantiateInfo:
+    - instantiateTag: Multiple Proposal Module
+      contractAddress: neutron14yu369rhq9pz6clxrvpeyxcuj66ay9k98p2dfh3sc9tlwtcqaxcqpk8rky
+      instantiateTimestamp: Thu Dec 21 2023 22:06:12 GMT+0530 (India Standard Time)

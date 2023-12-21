@@ -1,0 +1,9 @@
+testnet:
+  deployInfo:
+    codeId: 820
+    contractCodeHash: not_required
+    deployTimestamp: Thu Dec 21 2023 22:06:11 GMT+0530 (India Standard Time)
+  instantiateInfo:
+    - instantiateTag: Security subDAO Voting Module
+      contractAddress: neutron1ujdzgmjaks2s2uwnvm24tqdu0kmtlegr8gu87ngly2hdlumxtg7q3ca6lg
+      instantiateTimestamp: Thu Dec 21 2023 22:06:12 GMT+0530 (India Standard Time)
